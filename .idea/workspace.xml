@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cfe9b38f-d397-44bb-acac-7202c1c05ff8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../mygit" />
+  </component>
+  <component name="ProjectId" id="1cwe28o4YMI1LeufJEZkmwmbBs4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Brush/warmup/tripletzero.py" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\C58365A\PycharmProjects\Unzipping\Gold_Badge" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.Top_View_Tree">
+    <configuration name="32or64" type="PythonConfigurationType" factoryName="Python">
+      <module name="Unzipping" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\C58365A\PycharmProjects\Unzipping\Gold_Badge\32or64.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Binary_Search_Tree" type="PythonConfigurationType" factoryName="Python">
+      <module name="Unzipping" />
+      <option name="INTERPRETER_OPTIONS" value="-bb" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\C58365A\PycharmProjects\Unzipping\Gold_Badge\Binary_Search_Tree.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="true" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Bottom_View" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Unzipping" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Gold_Badge" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Gold_Badge/Bottom_View.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Top_View_Tree" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Unzipping" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Gold_Badge" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Gold_Badge/Top_View_Tree.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Triplets" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Unzipping" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Hard" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Hard/Triplets.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="compare2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Unzipping" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Linked" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Linked/compare2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pair" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Unzipping" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Hard" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Hard/pair.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.Binary_Search_Tree" />
+      <item itemvalue="Python.32or64" />
+      <item itemvalue="Python.compare2" />
+      <item itemvalue="Python.Triplets" />
+      <item itemvalue="Python.pair" />
+      <item itemvalue="Python.Bottom_View" />
+      <item itemvalue="Python.Top_View_Tree" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Top_View_Tree" />
+        <item itemvalue="Python.Bottom_View" />
+        <item itemvalue="Python.pair" />
+        <item itemvalue="Python.Triplets" />
+        <item itemvalue="Python.compare2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cfe9b38f-d397-44bb-acac-7202c1c05ff8" name="Default Changelist" comment="" />
+      <created>1591443872462</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591443872462</updated>
+    </task>
+    <task id="LOCAL-00001" summary="commit 01">
+      <created>1594049304685</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1594049304685</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit 01" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit 01" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="168" width="1092" height="745" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1594916488209">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="168" width="1092" height="745" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1594916488209" />
+    <state x="2585" y="314" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1595256033991">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="665" y="314" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1595214692744" />
+    <state x="2585" y="314" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1595256033991" />
+    <state x="627" y="209" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1595214776423">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="627" y="209" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1595214776423" />
+    <state x="530" y="47" key="CommitChangelistDialog2" timestamp="1594049302082">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="530" y="47" key="CommitChangelistDialog2/1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1594049302082" />
+    <state x="690" y="202" key="FileChooserDialogImpl" timestamp="1595132041477">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="202" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1595132041477" />
+    <state x="690" y="202" key="FileChooserDialogImpl/1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1594049078619" />
+    <state x="803" y="390" width="333" height="260" key="Github.ShareDialog" timestamp="1594049044703">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="803" y="390" width="333" height="260" key="Github.ShareDialog/1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1594049044703" />
+    <state width="598" height="864" key="GridCell.Tab.0.bottom" timestamp="1595995649498">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="598" height="864" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1595995649498" />
+    <state width="676" height="864" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1595690511144" />
+    <state width="1896" height="277" key="GridCell.Tab.0.bottom/1920.0.1280.693/0.0.1920.1040/3840.0.1920.1040@0.0.1920.1040" timestamp="1594649462706" />
+    <state width="1896" height="277" key="GridCell.Tab.0.bottom/1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1594638569093" />
+    <state width="598" height="864" key="GridCell.Tab.0.center" timestamp="1595995649498">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="598" height="864" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1595995649498" />
+    <state width="676" height="864" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1595690511144" />
+    <state width="1896" height="277" key="GridCell.Tab.0.center/1920.0.1280.693/0.0.1920.1040/3840.0.1920.1040@0.0.1920.1040" timestamp="1594649462706" />
+    <state width="1896" height="277" key="GridCell.Tab.0.center/1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1594638569093" />
+    <state width="598" height="864" key="GridCell.Tab.0.left" timestamp="1595995649498">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="598" height="864" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1595995649498" />
+    <state width="676" height="864" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1595690511144" />
+    <state width="1896" height="277" key="GridCell.Tab.0.left/1920.0.1280.693/0.0.1920.1040/3840.0.1920.1040@0.0.1920.1040" timestamp="1594649462705" />
+    <state width="1896" height="277" key="GridCell.Tab.0.left/1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1594638569093" />
+    <state width="598" height="864" key="GridCell.Tab.0.right" timestamp="1595995649498">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="598" height="864" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1595995649498" />
+    <state width="676" height="864" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1595690511144" />
+    <state width="1896" height="277" key="GridCell.Tab.0.right/1920.0.1280.693/0.0.1920.1040/3840.0.1920.1040@0.0.1920.1040" timestamp="1594649462706" />
+    <state width="1896" height="277" key="GridCell.Tab.0.right/1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1594638569093" />
+    <state width="1871" height="324" key="GridCell.Tab.1.bottom" timestamp="1595862841774">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1871" height="324" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1595862841774" />
+    <state width="1871" height="324" key="GridCell.Tab.1.center" timestamp="1595862841774">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1871" height="324" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1595862841774" />
+    <state width="1871" height="324" key="GridCell.Tab.1.left" timestamp="1595862841774">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1871" height="324" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1595862841774" />
+    <state width="1871" height="324" key="GridCell.Tab.1.right" timestamp="1595862841774">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1871" height="324" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1595862841774" />
+    <state x="438" y="44" key="SettingsEditor" timestamp="1594984009056">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="438" y="44" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1594984009056" />
+    <state x="340" y="78" key="SettingsEditor/1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1594037341060" />
+    <state x="452" y="188" key="Vcs.Push.Dialog.v2" timestamp="1594088664566">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="452" y="188" key="Vcs.Push.Dialog.v2/1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1594088664566" />
+    <state x="2506" y="303" key="com.intellij.ide.util.TipDialog" timestamp="1595688922572">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="586" y="303" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1595591214060" />
+    <state x="2506" y="303" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1595688922572" />
+    <state x="586" y="303" key="com.intellij.ide.util.TipDialog/1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1593829947604" />
+    <state x="577" y="82" width="766" height="876" key="find.popup" timestamp="1591444013244">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="577" y="82" width="766" height="876" key="find.popup/1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1591444013244" />
+    <state x="617" y="282" key="git4idea.merge.GitPullDialog" timestamp="1594049408704">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="617" y="282" key="git4idea.merge.GitPullDialog/1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1594049408704" />
+    <state x="2471" y="130" width="840" height="1034" key="search.everywhere.popup" timestamp="1595601794356">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="551" y="130" width="840" height="1034" key="search.everywhere.popup/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1595385704077" />
+    <state x="2471" y="130" width="840" height="1034" key="search.everywhere.popup/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1595601794356" />
+    <state x="539" y="5" width="840" height="1034" key="search.everywhere.popup/1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1594003753733" />
+  </component>
+</project>
